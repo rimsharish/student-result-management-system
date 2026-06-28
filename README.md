@@ -76,7 +76,7 @@ pip --version
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/student-result-management-system.git
+git clone https://github.com/rimsharish/student-result-management-system.git
 cd student-result-management-system
 ```
 
@@ -152,26 +152,3 @@ http://127.0.0.1:8000/admin/
 - `manage.py` is the tool you'll use to run commands like starting the server or creating migrations.
 
 ---
-
-## 🤝 Contributing
-
-If you'd like to improve this project:
-
-1. Fork this repository
-2. Create a new branch (`git checkout -b feature-name`)
-3. Make your changes
-4. Commit them (`git commit -m "Added new feature"`)
-5. Push to your branch (`git push origin feature-name`)
-6. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is open source. Feel free to use and modify it for learning purposes.
-
----
-
-## 🙋 Need Help?
-
-If you run into any issues while setting up, feel free to open an [Issue](../../issues) on this repository.
